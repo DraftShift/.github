@@ -8,4 +8,4 @@ An ecosystem dedicated ibring tool changers to all types of tools (not just stea
 
 ## <img src="https://github.com/StealthChanger/.github/blob/main/Media/Stealthchanger_tophat_logo.png?raw=true" height="100" align="top" /> Under Construction
 
-## [<img src="https://github.com/Stealthchanger/.github/blob/main/Media/Stealthchanger_DoorBuffer.png?raw=true" height="100" align="top" /> Modular docks](https://github.com/Stealthchanger/DoorBuffer)
+## [<img src="https://github.com/Stealthchanger/.github/blob/main/Media/Stealthchanger_DoorBuffer.png?raw=true" height="100" align="top" /> Door Buffer](https://github.com/Stealthchanger/DoorBuffer)
