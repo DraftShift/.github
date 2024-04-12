@@ -4,7 +4,7 @@ An ecosystem dedicated ibring tool changers to all types of tools (not just stea
 
 ## [<img src="../../../StealthChanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger](../../../StealthChanger)
 
-## [<img src="../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" /> ModulalDock](../../../ModularDock)
+## [<img src="../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" /> ModularDock](../../../ModularDock)
 
 ## <img src="Media/Tophat_logo.png?raw=true" height="100" align="top" /> Under Construction
 
