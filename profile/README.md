@@ -6,6 +6,6 @@ An ecosystem dedicated ibring tool changers to all types of tools (not just stea
 
 ## [<img src="../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" /> Modular Dock](../../../ModularDock)
 
-## <img src="Media/Tophat_logo.png?raw=true" height="100" align="top" /> Under Construction
+## [<img src="../../../ModularDock/blob/main/media/images/Tophat_logo.png?raw=true" height="100" align="top" /> Tophat](../../../Tophat)
 
 ## [<img src="../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" /> Door Buffer](../../../DoorBuffer)
