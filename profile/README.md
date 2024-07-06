@@ -10,6 +10,4 @@ An ecosystem dedicated ibring tool changers to all types of tools (not just stea
 
 ## [<img src="../../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" /> Door Buffer](../../../../DoorBuffer)
 
-## [<img src="../../../../klipper-toolchanger/blob/main/media/klipper_toolchanger_logo.png?raw=true" height="100" align="top" /> Klipper toolchanger plugin (WIP NOT FOR GENERAL USE)](../../../../klipper-toolchanger)
-
 ## [<img src="../../../../PowerCalc/blob/main/media/PowerCalc_logo.png?raw=true" height="100" align="top" /> Power Calculator (WIP NOT FOR GENERAL USE)](../../../../PowerCalc)
