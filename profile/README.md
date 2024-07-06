@@ -9,3 +9,5 @@ An ecosystem dedicated ibring tool changers to all types of tools (not just stea
 ## [<img src="../../../../Tophat/blob/main/Media/Tophat_logo.png?raw=true" height="100" align="top" /> Tophat](../../../../Tophat)
 
 ## [<img src="../../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" /> Door Buffer](../../../../DoorBuffer)
+
+## [<img src="../../../../PowerCalc/blob/main/media/PowerCalc_logo.png?raw=true" height="100" align="top" /> Power Calculator](../../../../PowerCalc)
