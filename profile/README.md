@@ -2,7 +2,7 @@
 
 An ecosystem dedicated to bringing tool changers to all types of tools (not just stealthburner) for Vorons and and other front mount printer motion systems.
 
-![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20Our%20Discord&labelColor=%237785cc&color=%23adf5ff)
+<a href="https://discord.gg/jJs73c6vSc" rel="Join Our Discord">![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20Our%20Discord&labelColor=%237785cc&color=%23adf5ff)</a>
 
 
 ## [<img src="../../../../StealthChanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger](../../../../StealthChanger)
