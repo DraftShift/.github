@@ -8,7 +8,7 @@ An ecosystem dedicated to bringing tool changers to all types of tools (not just
 
 ## [<img src="../../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" /> Modular Dock](../../../../ModularDock)
 
-## [<img src="../../../../klipper-toolchanger/blob/main/media/klipper-toolchanger_logo.png?raw=true" height="100" align="top" /> klipper-toolchanger (Early Alpha NOT FOR GENERAL USE)](../../../../klipper-toolchanger)
+## [<img src="../../../../klipper-toolchanger/blob/main/media/klipper_toolchanger_logo.png?raw=true" height="100" align="top" /> Klipper Addon for Toolchanging (Early Alpha NOT FOR GENERAL USE)](../../../../klipper-toolchanger)
 
 ## [<img src="../../../../Tophat/blob/main/Media/Tophat_logo.png?raw=true" height="100" align="top" /> Tophat](../../../../Tophat)
 
