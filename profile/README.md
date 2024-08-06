@@ -2,7 +2,7 @@
 
 An ecosystem dedicated ibring tool changers to all types of tools (not just stealthburner) for Vorons and and other front mount printer motion systems.
 
-<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord">![For extra support join our Discord](https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true){width=300}</a>
+<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord"><img src="[drawing.jpg](https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true)" alt="Join our Discord" width="300"/></a>
 
 
 ## [<img src="../../../../StealthChanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger](../../../../StealthChanger)
