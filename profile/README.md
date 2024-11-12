@@ -20,4 +20,6 @@ Visit our  [wiki](https://github.com/DraftShift/StealthChanger/wiki) for more in
 
 ## [<img src="../../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" /> Door Buffer](../../../../DoorBuffer)
 
+## [Cable Management](../../../../CableManagement)
+
 ## [<img src="../../../../PowerCalc/blob/main/media/PowerCalc_logo.png?raw=true" height="100" align="top" /> Power Calculator (WIP NOT FOR GENERAL USE)](../../../../PowerCalc)
