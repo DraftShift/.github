@@ -10,16 +10,16 @@ Visit our  [wiki](https://github.com/DraftShift/StealthChanger/wiki) for more in
 
 
 
-## [<img src="../../../../StealthChanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger](../../../../StealthChanger)
+## [<img src="../../../../StealthChanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> StealthChanger](../../../../StealthChanger)
 
-## [<img src="../../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" /> Modular Dock](../../../../ModularDock)
+## [<img src="../../../../ModularDock/blob/main/media/images/ModularDock_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Modular Dock](../../../../ModularDock)
 
-## [<img src="../../../../klipper-toolchanger/blob/main/media/klipper_toolchanger_logo.png?raw=true" height="100" align="top" /> Klipper Addon for Toolchanging (Early Alpha NOT FOR GENERAL USE)](../../../../klipper-toolchanger)
+## [<img src="../../../../klipper-toolchanger/blob/main/media/klipper_toolchanger_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Klipper Addon for Toolchanging (Early Alpha NOT FOR GENERAL USE)](../../../../klipper-toolchanger)
 
-## [<img src="../../../../Tophat/blob/main/Media/Tophat_logo.png?raw=true" height="100" align="top" /> Tophat](../../../../Tophat)
+## [<img src="../../../../Tophat/blob/main/Media/Tophat_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Tophat](../../../../Tophat)
 
-## [<img src="../../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" /> Door Buffer](../../../../DoorBuffer)
+## [<img src="../../../../DoorBuffer/blob/main/Media/DoorBuffer_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Door Buffer](../../../../DoorBuffer)
 
-## [<img src="../../../../CableManagement/blob/main/media/images/CableManagement_logo.png?raw=true" height="100" align="top" /> Cable Management](../../../../CableManagement)
+## [<img src="../../../../CableManagement/blob/main/media/images/CableManagement_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Cable Management](../../../../CableManagement)
 
-## [<img src="../../../../PowerCalc/blob/main/media/PowerCalc_logo.png?raw=true" height="100" align="top" /> Power Calculator (WIP NOT FOR GENERAL USE)](../../../../PowerCalc)
+## [<img src="../../../../PowerCalc/blob/main/media/PowerCalc_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> Power Calculator (WIP NOT FOR GENERAL USE)](../../../../PowerCalc)
